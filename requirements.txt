@@ -4,6 +4,6 @@ joblib
 numpy
 pandas
 Requests
-tensorflow
+tensorflow-cpu
 gunicorn
 scikit-learn
